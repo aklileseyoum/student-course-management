@@ -10,7 +10,7 @@ A console application for managing students, courses, and enrollments. Students 
 
 1. Clone the repository:
 ```
-   git clone <YOUR-REPO-URL>
+   git clone https://github.com/aklileseyoum/student-course-management.git
    cd student_course_management_system
 ```
 2. Install the project:
